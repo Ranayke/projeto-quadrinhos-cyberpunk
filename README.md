@@ -25,5 +25,5 @@ Este é o repositório para o projeto da disciplina Engenharia de Software, foca
 ## Ferramentas de Gerenciamento
 A gestão do projeto está sendo realizada utilizando as ferramentas do próprio GitHub.
 
-* **Link para o Product Backlog (GitHub Issues):** [https://github.com/Ranayke/projeto-quadrinhos-cyberpunk]
+* **Link para o Product Backlog (GitHub Issues):** [https://github.com/Ranayke/projeto-quadrinhos-cyberpunk/issues]
 * **Link para o Quadro Kanban do Projeto (GitHub Projects):** [https://github.com/users/Ranayke/projects/2/views/1]
